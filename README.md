@@ -1,5 +1,7 @@
 # Neural Network For Dino
 
+![](./demo.gif)
+
 ## How to Run
 
 ```sh

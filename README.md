@@ -1,4 +1,6 @@
-# Neural Network For Dino
+# Create Neural Network By Pure JavaScript
+
+> Play Chrome Dino By Neural Network
 
 ![](./demo.gif)
 
